@@ -1,0 +1,2 @@
+/Users/martin/Desktop/Escuela/unidad10/flutter-project/suma_app/build/.cxx/Debug/3p5i32w5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/martin/Desktop/Escuela/unidad10/flutter-project/suma_app/build/.cxx/Debug/3p5i32w5/arm64-v8a/CMakeFiles/rebuild_cache.dir

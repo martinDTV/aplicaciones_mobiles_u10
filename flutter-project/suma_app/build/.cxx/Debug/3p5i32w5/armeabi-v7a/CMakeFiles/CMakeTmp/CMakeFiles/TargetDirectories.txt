@@ -1,0 +1,3 @@
+/Users/martin/Desktop/Escuela/unidad10/flutter-project/suma_app/build/.cxx/Debug/3p5i32w5/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_26ba9.dir
+/Users/martin/Desktop/Escuela/unidad10/flutter-project/suma_app/build/.cxx/Debug/3p5i32w5/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+/Users/martin/Desktop/Escuela/unidad10/flutter-project/suma_app/build/.cxx/Debug/3p5i32w5/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
